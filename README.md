@@ -32,7 +32,7 @@ Hi, I'm Anand Sinha, a Full-Stack Web Developer (MERN) 👨‍💻 , Programmer 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Looking For **Job**;
+- 👨🏽‍💻 Looking For a **Job**;
 - 🌱 I’m Currently Working On **Data Structures & Algorithms with a mix of Development**;
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
