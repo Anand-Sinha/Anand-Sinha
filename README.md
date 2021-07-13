@@ -1,5 +1,5 @@
 ## Hey! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm [Anand Sinha!](https://anand-sinha.github.io/PersonalPortfolio/)
-<img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
+<!-- <img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png"> -->
 <a href="https://www.linkedin.com/in/anand-sinha13/">
   <img align="left" alt="Anand's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
