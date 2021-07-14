@@ -28,7 +28,7 @@
 
 Hi, I'm Anand Sinha, a Full-Stack Web Developer (MERN) 👨‍💻 , Programmer And Designer , UI/UX Designer from India, Currently I'm a student completing My BTech 👨‍🎓(2018-22) Graduation in CSE from GGSIPU . Beside's Programming, I Enjoy Learning And Traveling.
 
-  <img align="right" alt="GIF"  width="380"  height="350"  src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!--   <img align="right" alt="GIF"  width="380"  height="350"  src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> -->
 
 **Talking about Personal Stuffs:**
 
