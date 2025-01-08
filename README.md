@@ -26,17 +26,16 @@
 <br />
 <br />
 
-Hi, I'm Anand Sinha, a Full-Stack Web Developer (MERN) 👨‍💻 , Programmer And Designer , UI/UX Designer from India, Currently I'm a student completing My BTech 👨‍🎓(2018-22) Graduation in CSE from GGSIPU . Beside's Programming, I Enjoy Learning And Traveling.
+Hi, I'm Anand Sinha, I'm a Full-Stack Web Developer and an avid programmer based in Delhi, India, with a strong passion for building scalable and efficient web applications. I hold a Bachelor's degree in Technology (CSE) from GGSIPU and am currently working at GrapeCity, Noida.
 
+With expertise in both front-end and back-end development, I enjoy solving complex problems, optimizing performance, and continuously learning about new technologies. My goal is to create seamless, user-friendly digital experiences that make a difference.
 <!--   <img align="right" alt="GIF"  width="380"  height="350"  src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> -->
 
-**Talking about Personal Stuffs:**
+**More about me:**
 
-- 👨🏽‍💻 Looking For a full-time **SDE Role**.|[Resume](https://drive.google.com/file/d/1mvVJRCCki-Qu13fms2Gd4YZhJarHEOky/view?usp=sharing)|[LinkedIn](https://www.linkedin.com/in/anand-sinha13/)|
-- 🌱 I’m Currently Working On **Data Structures & Algorithms with a mix of Development**.
-- 👯 Open For **Collaboration**.
-- 💬 Ask Me About Anything, I Am Happy To **Help**.
-- 📫 How To Reach Me: sinhaanand@icloud.com |[LinkedIn](https://www.linkedin.com/in/anand-sinha13/)|
+- 👨🏽‍💻 I am currently open to new opportunities where I can implement and improve my knowledge, you may reach out to me at [LinkedIn](https://www.linkedin.com/in/anand-sinha13/)|
+- 🌱 Aside from development I am currently working on honing my Data Structures & Algorithms.
+- 💬 Please be open to reach out for any help at sinhaanand@icloud.com |[LinkedIn](https://www.linkedin.com/in/anand-sinha13/)|
 
 **Languages and Tools:**  
 
@@ -55,14 +54,5 @@ Hi, I'm Anand Sinha, a Full-Stack Web Developer (MERN) 👨‍💻 , Programmer 
 <code><img height="35" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
 <code><img height="35" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/085/square_280/firebaselogo.png"></code>
 <code><img height="35" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
-
-
-
-
-![Anand's github stats](https://github-readme-stats.vercel.app/api?username=Anand-Sinha&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anand-Sinha&theme=dark)](https://git.io/streak-stats)
-
-![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-Sinha&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
 Do Give A Look To My [Repositories](https://github.com/Anand-Sinha?tab=repositories) And ⭐ It
