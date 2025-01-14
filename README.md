@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anand Sinha, I'm a Full-Stack Web Developer and an avid programmer based in Delhi, India, with a strong passion for building scalable and efficient web applications. I hold a Bachelor's degree in Technology (CSE) from GGSIPU and am currently working at GrapeCity, Noida.
+Hi, I'm Anand Sinha, I'm a Full-Stack Developer and an avid programmer based in Delhi, India, with a strong passion for building scalable and efficient web applications. I hold a Bachelor's degree in Technology (CSE) from GGSIPU and am currently working at GrapeCity, Noida.
 
 With expertise in both front-end and back-end development, I enjoy solving complex problems, optimizing performance, and continuously learning about new technologies. My goal is to create seamless, user-friendly digital experiences that make a difference.
 <!--   <img align="right" alt="GIF"  width="380"  height="350"  src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> -->
