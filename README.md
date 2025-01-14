@@ -26,5 +26,3 @@ With expertise in both front-end and back-end development, I enjoy solving compl
 
 **Languages and Tools:**  
 C++ | C#.NET | ASP.NET | HTML | CSS | JavaScript | ReactJS | Node.js | MongpDB | SQL | Git
-
-Do Give A Look To My [Repositories](https://github.com/Anand-Sinha?tab=repositories) And ⭐ It
